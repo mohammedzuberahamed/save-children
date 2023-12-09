@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(123, 10, 10);
+    font-size: 400%;
+}
+
+span{
+    color: rgb(121, 31, 31);
+}
+h2{
+    font-style: italic;
+}
+a{
+    font-style: oblique;
+    color: rgb(139, 24, 24);
+    
+}
+q{
+  font-size: larger;
+  color: blueviolet;
+  font-style: italic;
+  font-weight: bold;  
+  background-color: aqua;
+}
+span{
+    background-color: black;
+}

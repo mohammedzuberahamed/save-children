@@ -20,13 +20,5 @@ a{
     color: rgb(139, 24, 24);
     
 }
-q{
-  font-size: larger;
-  color: blueviolet;
-  font-style: italic;
-  font-weight: bold;  
-  background-color: aqua;
-}
-span{
-    background-color: black;
-}
+
+
